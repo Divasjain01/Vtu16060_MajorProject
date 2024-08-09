@@ -1,0 +1,2 @@
+This study proposes a novel approach to sentiment analysis of product reviews using BERT, a state-of-the-art language model that has revolutionized he field of natural language processing. By fine-tuning a pre-trained BERT
+model on a large dataset of product reviews, we demonstrate the ability to accurately classify sentiment as positive, negative, or neutral, while also capturing subtle variations in tone and emotion.
